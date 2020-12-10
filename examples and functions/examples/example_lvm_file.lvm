@@ -1,0 +1,32 @@
+LabVIEW Measurement	
+Writer_Version	2
+Reader_Version	2
+Separator	Tab
+Decimal_Separator	.
+Multi_Headings	No
+X_Columns	No
+Time_Pref	Absolute
+Operator	Robert
+Date	2020/11/26
+Time	15:28:48.6979742050170898437
+***End_of_Header***	
+	
+Channels	2		
+Samples	1	1	
+Date	2020/11/26	2020/11/26	
+Time	15:28:48.6979742050170898437	15:28:48.6979742050170898437	
+X_Dimension	Time	Time	
+X0	0.0000000000000000E+0	0.0000000000000000E+0	
+Delta_X	1.000000	1.000000	
+***End_of_Header***			
+X_Value	Untitled	Untitled 1	Comment
+	0.124377	0.000000	text_line_0
+	0.798189	1.000000	text_line_1
+	0.381536	2.000000	text_line_2
+	0.940412	3.000000	text_line_3
+	0.132644	4.000000	text_line_4
+	0.008202	5.000000	text_line_5
+	0.237859	6.000000	text_line_6
+	0.234782	7.000000	text_line_7
+	0.097064	8.000000	text_line_8
+	0.944707	9.000000	text_line_9

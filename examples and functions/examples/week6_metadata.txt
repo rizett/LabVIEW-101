@@ -1,0 +1,6 @@
+Deployment metadata: 
+Calibration equation: y = A x log10(X) + B
+Calibration date: 06-Dec-20
+Calibration coefficients (A, B): 12.250000, -1.000000
+Today's date: 07-Dec-20
+Operator name: R Izett
